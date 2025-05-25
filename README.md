@@ -1,11 +1,11 @@
-# UltimaPruebaPoema
+# Poema para branch2
 
-En el silencio de la noche eterna
-susurra el viento secretos de ilusión,
-versos dispersos en la bruma eterna
-que danzan libres en mi corazón.
+En la brisa suave del alba
+se dibujan suspiros dorados,
+versos que bailan sin prisa
+sobre mares nunca hallados.
 
-Estrella fugaz, suspiro divino,
-dibuja sueños de luz y pasión,
-en tu fulgor hallo mi destino,
-y en tu abrazo germina mi canción.
+El sol acaricia las montañas
+y despierta el canto dormido,
+un poema nace en silencio
+con el eco de un latido.
